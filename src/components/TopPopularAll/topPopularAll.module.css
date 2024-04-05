@@ -1,0 +1,12 @@
+.topPopularAll {
+	display: grid;
+	grid-template-columns: repeat(4, minmax(0, 1fr));
+	gap: 20px;
+	margin: 20px;
+}
+.poster {
+	border-radius: 20px;
+}
+.title {
+	font-size: 18px;
+}

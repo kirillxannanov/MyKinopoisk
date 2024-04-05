@@ -1,0 +1,18 @@
+.menu {
+	font-size: 20px;
+	margin-top: 20px;
+}
+.menu div {
+	color: #999999;
+	margin-top: 10px;
+}
+
+.active div {
+	color: black;
+	border-radius: 10px;
+	padding: 2px;
+	background-color: #0071e3;
+}
+.menu div:hover {
+	color: black;
+}
